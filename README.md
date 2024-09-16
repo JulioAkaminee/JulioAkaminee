@@ -33,8 +33,8 @@
 
 <br/>
 
-<a href="https://github.com/JulioAkaminee" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioAkaminee&theme=dracula&show_icons=true" />
+<a href="https://github.com/JulioAkaminee" title="Perfil do Júlio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAkaminee&layout=compact&show_icons=true&theme=dracula"" />
 </a>
 
 ## Onde me encontrar
