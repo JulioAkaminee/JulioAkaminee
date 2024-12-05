@@ -4,7 +4,7 @@
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções WEB.</br></br>
 🎓 Estudando {Técnico em informatica para internet} no {SENAC SP}.</br></br>
-🌱 Aprendendo mais sobre {React, MySql, PHP}.</br></br>
+🌱 Aprendendo mais sobre {React,React Native, MySql, NodeJs}.</br></br>
   Olá! Sou Júlio Akamine, de São Paulo, e tenho 19 anos. Minha jornada profissional começou no setor plástico, mas minha verdadeira paixão sempre esteve no mundo dos computadores. Desde criança, adorava desmontar 
   gadgets e explorar como eles funcionavam, o que acabou me levando a descobrir minha vocação no desenvolvimento web.
 
