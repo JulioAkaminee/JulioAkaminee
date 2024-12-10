@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=JulioAkaminee&color=006bed)
+
 
 ## Sobre mim
 
