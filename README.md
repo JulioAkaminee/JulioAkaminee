@@ -44,5 +44,6 @@
 [![GitHub](https://img.shields.io/github/followers/JulioAkaminee?label=Seguir&style=social)](https://github.com/JulioAkaminee)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JulioAkaminee&bg_color=ffffff&color=000000&line=0000ff&point=00ff00&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JulioAkaminee&bg_color=ffffff&color=000000&line=0000ff&point=00ff00&area=true&hide_border=true)
+
 
