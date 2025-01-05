@@ -42,3 +42,6 @@
 [![Linkedin](https://img.shields.io/badge/-JulioAkamine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-akamine-132b1a243/)](https://www.linkedin.com/in/julio-akamine-132b1a243/)
 [![Gmail Badge](https://img.shields.io/badge/-juliooakamine@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliooakamine@gmail.com)](mailto:juliooakamine@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/JulioAkaminee?label=Seguir&style=social)](https://github.com/JulioAkaminee)
+
+
+![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAkaminee)
