@@ -45,3 +45,4 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=JulioAkaminee&bg_color=ffffff&color=000000&line=0000ff&point=00ff00&area=true&hide_border=true)
+
