@@ -44,7 +44,8 @@
 [![GitHub](https://img.shields.io/github/followers/JulioAkaminee?label=Seguir&style=social)](https://github.com/JulioAkaminee)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JulioAkaminee&bg_color=ffffff&color=000000&line=0000ff&point=00ff00&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JulioAkaminee&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
