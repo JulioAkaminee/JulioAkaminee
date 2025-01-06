@@ -32,6 +32,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JulioAkaminee&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 <a href="https://github.com/JulioAkaminee" title="Perfil do Júlio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAkaminee&layout=compact&show_icons=true&theme=dracula"" />
