@@ -31,7 +31,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JulioAkaminee&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <br/>
 <a href="https://github.com/JulioAkaminee" title="Perfil do Júlio">
