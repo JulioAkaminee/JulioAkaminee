@@ -1,52 +1,44 @@
+# Eu sou o Júlio Akamine! 🚀
 
+### Um dev em construção, direto de São Paulo!
 
-## Sobre mim
+💻 **Apaixonado por criar soluções web que fazem a diferença**  
+🎯 **Focado em evoluir, aprender e entregar o melhor**  
+🌟 **20 anos e pronto pra conquistar o mundo da tech!**
 
-🤔 Explorando novas tecnologias e desenvolvendo soluções WEB.</br></br>
-🎓 Estudando {Técnico em informatica para internet} no {SENAC SP}.</br></br>
-🌱 Aprendendo mais sobre {React,React Native, MySql, NodeJs}.</br></br>
-  Olá! Sou Júlio Akamine, de São Paulo, e tenho 20 anos. Minha jornada profissional começou no setor plástico, mas minha verdadeira paixão sempre esteve no mundo dos computadores. Desde criança, adorava desmontar 
-  gadgets e explorar como eles funcionavam, o que acabou me levando a descobrir minha vocação no desenvolvimento web.
+Sou um cara curioso que trocou o setor plástico pela adrenalina do código. Desde pequeno, eu era aquele que desmontava qualquer gadget só pra entender o que tinha dentro – e essa curiosidade me trouxe até aqui. Hoje, estou mergulhado de cabeça no desenvolvimento web, transformando ideias em projetos reais e me desafiando a cada linha de código.
 
-  Atualmente, estou mergulhado no estudo e prática do desenvolvimento web. Estou comprometido em aprimorar minhas habilidades e aprender constantemente para entregar sempre o melhor resultado. Cada projeto é uma 
-  nova oportunidade para crescer e me desafiar.
+Estou cursando **Técnico em Informática para Internet** no **SENAC SP**, fuçando em **React, React Native, MySQL e Node.js**, e sempre buscando o próximo nível. Se tem uma coisa que me move, é a vontade de crescer e conectar com quem curte essa vibe tech tanto quanto eu. Bora trocar ideias? Quem sabe o que podemos criar juntos?
 
-  Estou em busca de novas conexões e oportunidades na área de tecnologia. Se você compartilha dessa paixão ou tem alguma dica, adoraria conversar e explorar possibilidades juntos!
+---
 
-## Minhas Skills
+## O que eu manjo 💪
 
-**Aplicações e dados**
+### **Tech Stack que eu domino (ou quase lá!)**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
 
+### **Ferramentas que me salvam no dia a dia**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+---
 
-
-**Ferramentas de desenvolvimento**
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-
-<br/>
-<a href="https://github.com/JulioAkaminee" title="Perfil do Júlio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAkaminee&layout=compact&show_icons=true&theme=dracula"" />
+## Um pedacinho dos meus números no GitHub 📊  
+<a href="https://github.com/JulioAkaminee" title="Dá uma olhada no meu GitHub!">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAkaminee&layout=compact&show_icons=true&theme=radical&hide_border=true" />  
 </a>
 
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-JulioAkamine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-akamine-132b1a243/)](https://www.linkedin.com/in/julio-akamine-132b1a243/)
-[![Gmail Badge](https://img.shields.io/badge/-juliooakamine@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliooakamine@gmail.com)](mailto:juliooakamine@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/JulioAkaminee?label=Seguir&style=social)](https://github.com/JulioAkaminee)
 
 
+## Onde me achar? 🗺️  
+💬 **Vamos trocar uma ideia ou colaborar em algo foda?**  
+[![LinkedIn](https://img.shields.io/badge/-JulioAkamine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-akamine-132b1a243/)  
+[![Gmail](https://img.shields.io/badge/-juliooakamine@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juliooakamine@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-JulioAkaminee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioAkaminee)  
 
-
-
-
-
+---
