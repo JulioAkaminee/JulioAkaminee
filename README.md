@@ -31,8 +31,12 @@ Atualmente, curso **Técnico em Informática para Internet** no SENAC SP, explor
 
 ## Onde me achar? 🗺️  
 💬 **Vamos trocar uma ideia ou colaborar em algo foda?**  
-[![LinkedIn](https://img.shields.io/badge/-JulioAkamine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-akamine-132b1a243/)  
-[![Gmail](https://img.shields.io/badge/-juliooakamine@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juliooakamine@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-JulioAkaminee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioAkaminee)  
+
+
+  
+[![LinkedIn](https://img.shields.io/badge/-JulioAkamine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-akamine-132b1a243/)   [![Gmail](https://img.shields.io/badge/-juliooakamine@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juliooakamine@gmail.com)   [![GitHub](https://img.shields.io/badge/-JulioAkaminee-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JulioAkaminee)  
+
+
+
 
 ---
