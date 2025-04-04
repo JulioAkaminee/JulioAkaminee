@@ -8,9 +8,11 @@
 🎯 **Focado em evoluir, aprender e entregar o melhor**  
 🌟 **20 anos e pronto pra conquistar o mundo da tech!**
 
-Sou um cara curioso que trocou o setor plástico pela adrenalina do código. Desde pequeno, eu era aquele que desmontava qualquer gadget só pra entender o que tinha dentro – e essa curiosidade me trouxe até aqui. Hoje, estou mergulhado de cabeça no desenvolvimento web, transformando ideias em projetos reais e me desafiando a cada linha de código.
+# Sobre mim
 
-Estou cursando **Técnico em Informática para Internet** no **SENAC SP**, fuçando em **React, React Native, MySQL e Node.js**, e sempre buscando o próximo nível. Se tem uma coisa que me move, é a vontade de crescer e conectar com quem curte essa vibe tech tanto quanto eu. Bora trocar ideias? Quem sabe o que podemos criar juntos?
+Sou um cara movido por curiosidade, que trocou o caminho tradicional pela adrenalina do código. Quando pequeno, eu era o tipo que desmontava qualquer gadget só pra descobrir como funcionava – e essa inquietude me trouxe até aqui. Hoje, estou imerso no desenvolvimento web, transformando ideias em projetos concretos e me desafiando a cada linha de código que escrevo.
+
+Atualmente, curso **Técnico em Informática para Internet** no SENAC SP, explorando **React**, **React Native**, **MySQL** e **Node.js**, sempre buscando subir de nível.
 
 ---
 
