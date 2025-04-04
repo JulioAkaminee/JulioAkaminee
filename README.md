@@ -1,4 +1,5 @@
-# Eu sou o Júlio Akamine! 🚀
+
+![BannerJulioAkamine](https://github.com/user-attachments/assets/ddb07486-9609-4ed5-ad12-ac01afe429b4)
 
 ### Um dev em construção, direto de São Paulo!
 
