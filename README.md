@@ -1,5 +1,6 @@
 
-![BannerJulioAkamine](https://github.com/user-attachments/assets/ddb07486-9609-4ed5-ad12-ac01afe429b4)
+
+![BannerJulioAkaminee](https://github.com/user-attachments/assets/5b5b5df3-eae9-4f4a-875d-47e32df1c35f)
 
 ### Um dev em construção, direto de São Paulo!
 
