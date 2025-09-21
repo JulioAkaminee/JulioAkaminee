@@ -1,8 +1,6 @@
 
 
 
-![BannerJulioAkaminee](https://github.com/user-attachments/assets/5b5b5df3-eae9-4f4a-875d-47e32df1c35f)
-
 ### Desenvolvedor Full Stack | São Paulo
 
 **Foco em:**
