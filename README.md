@@ -3,7 +3,6 @@
 
 ### Desenvolvedor Full Stack | São Paulo
 
-**Foco em:**
 - Desenvolvimento FullStack
 - **React**, **React Native**, **Node.js**, **MySQL**, **Figma**
 - Técnico em Informática para Internet (SENAC SP)
