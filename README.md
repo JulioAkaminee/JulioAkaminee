@@ -29,8 +29,6 @@ Em outubro de 2026 conquistei o **1º lugar (US$ 1.000)** no hackathon da comuni
 
 <p align="center">
   <img src="assets/hackathon-1lugar.svg" alt="Julio Akamine com a placa de 1º lugar no OpenAI DevDay Hackathon" height="420">
-  &nbsp;
-  <img src="assets/hackathon-cartaz.svg" alt="Cartaz de 1º lugar US$ 1.000 do OpenAI DevDay" height="420">
 </p>
 
 ---
