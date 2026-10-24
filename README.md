@@ -4,7 +4,7 @@
 
 ### Especialista em Desenvolvimento com IA · Full Stack
 
-Desenvolvedor na **[Kanglu](https://kanglu.com.br)** · 🏆 **1º lugar no OpenAI DevDay Community Hackathon São Paulo 2026**
+Desenvolvedor na **[Kanglu](https://kanglu.com.br)** · 🏆 **1º lugar** no DevDay Exchange Community Hackathon SP 2026
 
 📍 Bragança Paulista – SP
 
@@ -17,19 +17,29 @@ Desenvolvedor na **[Kanglu](https://kanglu.com.br)** · 🏆 **1º lugar no Open
 
 ## Sobre mim
 
-Construo produtos que colocam IA em produção: agentes, automações e aplicações full stack, do protótipo ao deploy. Na **Kanglu**, plataforma de rastreio e comunicação pós-compra para e-commerce, trabalho com integrações com Bling, Tiny, TikTok Shop e transportadoras como a Frenet.
+Construo produtos que colocam IA em produção: agentes, automações e aplicações full stack, do protótipo ao deploy. Desenvolver vai além do código: com IA, dá para pensar o produto inteiro, do problema à entrega. Na **Kanglu**, plataforma de rastreio e comunicação pós-compra para e-commerce, trabalho com integrações com Bling, Tiny, TikTok Shop e transportadoras como a Frenet.
 
 Formado em Técnico em Informática para Internet pelo **Senac** e cursando graduação na área de software. Tenho background em design, o que me ajuda a entregar interfaces com boa experiência de uso.
 
 ---
 
-## 🏆 1º lugar · OpenAI DevDay Community Hackathon São Paulo 2026
+## 🏆 1º lugar · OpenAI DevDay Exchange Community Hackathon São Paulo
 
-Em outubro de 2026 conquistei o **1º lugar (US$ 1.000)** no hackathon da comunidade OpenAI DevDay em São Paulo.
+Em **23 de outubro de 2026**, em dupla com **[Miguel Vaz](https://github.com/miguelvzs)**, fiquei em **1º lugar** com o **[Quebra-Gelo](https://github.com/JulioAkaminee/devday-hackathon)** ([demo](https://quebra-gelo.julioakamine.com)): um jogo de missões para transformar o networking do evento em conexões de verdade.
+
+O prêmio foi **US$ 1.000 em créditos Codex** e **12 meses de ChatGPT Pro**.
+
+Evento da comunidade organizado pelos **Codex Ambassadors Brasil** — Marcelo Okano, Matheus Darós Pagani e Laura Napoles — ligado ao OpenAI DevDay Exchange. A organização é da comunidade, não da OpenAI.
 
 <p align="center">
-  <img src="assets/hackathon-1lugar.svg" alt="Julio Akamine com a placa de 1º lugar no OpenAI DevDay Hackathon" height="420">
+  <a href="assets/hackathon-backdrop.jpg"><img src="assets/hackathon-backdrop.jpg" alt="Julio Akamine e Miguel Vaz no backdrop do OpenAI DevDay Exchange Community Hackathon São Paulo" width="31%"></a>
+  <a href="assets/hackathon-1lugar-dupla.jpg"><img src="assets/hackathon-1lugar-dupla.jpg" alt="Julio Akamine e Miguel Vaz com as placas de 1º lugar do Quebra-Gelo" width="31%"></a>
+  <a href="assets/hackathon-1lugar-com-organizador.jpg"><img src="assets/hackathon-1lugar-com-organizador.jpg" alt="Julio Akamine, Miguel Vaz e Marcelo Okano com as placas de 1º lugar" width="31%"></a>
 </p>
+
+<p align="center"><sub>Julio Akamine e Miguel Vaz no evento. À direita, com Marcelo Okano. O valor das placas é em créditos Codex.</sub></p>
+
+Também fiquei em **1º lugar** no hackathon da **Maker's Tech**, um grupo de cerca de 30 desenvolvedores no Discord, com prêmio de **R$ 3.000**.
 
 ---
 
@@ -48,7 +58,7 @@ Em outubro de 2026 conquistei o **1º lugar (US$ 1.000)** no hackathon da comuni
 | **Cenora** *(privado)* | Estúdio local de criação de vídeos com IA: roteiro, narração, cenas, trilha e publicação. | IA · TypeScript |
 | **Cotidiano Aberto** *(privado)* | Canal no YouTube com vídeos animados produzidos com IA. | IA · SVG · GSAP |
 | [clip-mvp](https://github.com/JulioAkaminee/clip-mvp) | MVP local de cortes automáticos para YouTube/TikTok via OpenRouter. | IA · LLMs |
-| [devday-hackathon](https://github.com/JulioAkaminee/devday-hackathon) | Projeto do OpenAI DevDay Community Hackathon SP 2026. | OpenAI |
+| [Quebra-Gelo](https://github.com/JulioAkaminee/devday-hackathon) | Jogo de missões para transformar networking em conexões. 1º lugar no DevDay Exchange Community Hackathon SP, em dupla com Miguel Vaz. | TypeScript |
 | [viajados](https://github.com/JulioAkaminee/viajados) + [backend](https://github.com/JulioAkaminee/backendViajados) | App de viagens: busca de destinos, roteiros e dicas. | React Native · Node.js |
 | [infobus](https://github.com/JulioAkaminee/infobus) | Rastreio de ônibus da SPTrans em tempo real com a API Olho Vivo. | JavaScript · API |
 | [QuebradaLoungeV2](https://github.com/JulioAkaminee/QuebradaLoungeV2) | Loja online de adega. | Next.js · Node.js · MySQL |
